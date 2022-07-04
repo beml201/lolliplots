@@ -35,3 +35,6 @@ print('Example figure of exomes in "real" size')
 fig1.show()
 print('Example figure of exomes only (introns removed)')
 fig2.show()
+
+# Save the figure
+# fig2.write_html('lolliplots_example.html')

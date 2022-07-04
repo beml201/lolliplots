@@ -1,0 +1,10 @@
+name: lolliplots
+channels:
+  - plotly
+  - conda-forge
+dependencies:
+  - plotly
+  - numpy
+  - pandas
+  - ipywidgets
+  - jupyterlab

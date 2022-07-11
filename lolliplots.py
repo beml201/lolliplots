@@ -267,5 +267,7 @@ def example():
     print('Example figure of exomes only (introns removed)')
     fig2.show()
 
+    #fig2.write_html('lolliplots_example.html')
+
 if __name__ == "__main__":
     example()
